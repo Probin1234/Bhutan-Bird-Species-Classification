@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+dataset/original/
+dataset/train/
+dataset/valid/
+dataset/test/
+dataset/*.tar.gz
+dataset/*.part
+dataset/manifest.csv
+models_backup/
+results_backup/

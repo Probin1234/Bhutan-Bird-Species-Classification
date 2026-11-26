@@ -1,0 +1,6 @@
+{
+    "folds": 5,
+    "epochs_per_fold": 3,
+    "mean_accuracy": 0.9896103858947753,
+    "std_accuracy": 0.005872155130407975
+}
